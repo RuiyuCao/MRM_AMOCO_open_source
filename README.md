@@ -48,7 +48,7 @@ This repository includes source code of VPD pattern design and AMOCO reconstrcti
 AMOCO reconstruction: run main_recon.main amoco_code directory
 
 ### VPD pattern design
-在VPD_pattern_design中的generate_3D_mask.m中设置相关参数后运行
+Set the relevant parameters in generate_3D_mask.m under “VPD_pattern_design” directory, and then run the script.
 
 ---
 
@@ -77,8 +77,8 @@ If you use this code, please cite:
 
 - **Ruiyu Cao** (Primary Developer) — rycao22@m.fudan.edu.cn
 - **Shaohang Li** — shli23@m.fudan.edu.cn
-- **Aiqi Sun** —
-- **Hao Li** -
+- **Aiqi Sun** — sunaq@stanford.edu
+- **Hao Li** - h_li@fudan.edu.cn
 
 ---
 
