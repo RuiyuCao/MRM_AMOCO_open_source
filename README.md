@@ -55,7 +55,7 @@ Set the relevant parameters in generate_3D_mask.m under “VPD_pattern_design”
 ## Datasets
 
 The example dataset for AMOCO reconstruction consist of:
-- **Ungated Cartesian undersampled** acquisitions using VPD sampling pattern with respiratory bellows recording
+- **Ungated Cartesian undersampled** acquisitions using VPD sampling pattern at 5T system(Jupiter, United Imaging) and acquisitions using CS sampling pattern at 3T system(VIDA, Siemens)
 - `.mat` files containing
    - **k-space data**
    - **sampling mask**
