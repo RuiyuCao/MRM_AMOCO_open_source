@@ -69,7 +69,7 @@ The example dataset for AMOCO reconstruction consist of:
 
 If you use this code, please cite:
 
-> Ruiyu Cao, Shaohang Li, Aiqi Sun, et al. Adaptive Respiratory Motion Correction Framework for Ungated Hepatic 4D Flow MRI.
+> R. Cao, S. Li, A. Sun, et al., “ Adaptive Respiratory Motion Correction Framework for Ungated Hepatic 4D Flow MRI,” Magnetic Resonance in Medicine 96, no. 3 (2026): 1148–1161, https://doi.org/10.1002/mrm.70404.
 
 ---
 
